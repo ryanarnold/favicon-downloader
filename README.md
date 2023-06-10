@@ -14,4 +14,4 @@ Run script
 python main.py
 ```
 
-`.ico` files will be downloaded toi `./output` directory
+`.ico` files will be downloaded to `./output` directory
